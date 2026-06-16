@@ -1,2 +1,2 @@
 ﻿CustomerID,CustomerName,InvoiceVolume,Database Domain,Action,Region
-p110509,OnRobot A/S,5000,prime-prod-22-sc-sql1.database.windows.net,Onboard,US
+p110509,OnRobot A/S,5000,prime-prod-15-ue-sql1.database.windows.net,Onboard,US
