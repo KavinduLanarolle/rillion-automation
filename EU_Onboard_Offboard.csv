@@ -1,2 +1,4 @@
 CustomerID,CustomerName,InvoiceVolume,Database Domain,Action,Region
-p110510,OnRobot A/S,5001,testing_domain_updation,Update,EMEA
+p110511,OnRobot A/S,5002,prime-prod-22-sc-sql1.database.windows.net,Onboard,EMEA
+p110512,OnRobot A/S,5005,prime-prod-22-sc-sql1.database.windows.net,Onboard,EMEA
+p110513,OnRobot A/S,5010,prime-prod-22-sc-sql1.database.windows.net,Onboard,EMEA
